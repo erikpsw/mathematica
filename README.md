@@ -1,2 +1,2 @@
-# my mathematica workout
+# my mathematica workouts
 
